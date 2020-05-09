@@ -18,8 +18,7 @@
                     <configuration>
                         <archive>
                             <manifest>
-                                <addClasspath>true</addClasspath>
-                                <classpathPrefix>lib/</classpathPrefix>
+
                                 <mainClass>Calculator</mainClass>
                             </manifest>
                         </archive>
